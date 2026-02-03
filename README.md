@@ -5,7 +5,7 @@
 ## מבנה הספרייה
 
 ```
-prompts/
+Amir_Prompt_Library/
 ├── amir-personal/   # מאסטר פרומפט אישי - מי אני ומה אני עושה
 ├── coding/          # פרומפטים לתכנות ופיתוח
 ├── writing/         # פרומפטים לכתיבה ועריכה
@@ -16,7 +16,9 @@ prompts/
 ├── productivity/    # פרומפטים לפרודוקטיביות וארגון
 ├── marketing/       # פרומפטים לשיווק ופרסום
 ├── templates/       # תבניות פרומפטים בסיסיות
-└── system/          # פרומפטים מערכתיים (System Prompts)
+├── system/          # פרומפטים מערכתיים (System Prompts)
+├── README.md        # מדריך הספרייה
+└── INDEX.md         # אינדקס כל הפרומפטים
 ```
 
 ## קטגוריות

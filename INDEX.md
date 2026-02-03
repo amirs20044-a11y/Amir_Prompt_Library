@@ -19,123 +19,123 @@
 ---
 
 ## Amir Personal - מאסטר פרומפט אישי
-📁 `prompts/amir-personal/`
+📁 `amir-personal/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/amir-personal/)
+[→ לתיקייה](amir-personal/)
 
 ---
 
 ## Coding - תכנות
-📁 `prompts/coding/`
+📁 `coding/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/coding/)
+[→ לתיקייה](coding/)
 
 ---
 
 ## Writing - כתיבה
-📁 `prompts/writing/`
+📁 `writing/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/writing/)
+[→ לתיקייה](writing/)
 
 ---
 
 ## Analysis - ניתוח
-📁 `prompts/analysis/`
+📁 `analysis/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/analysis/)
+[→ לתיקייה](analysis/)
 
 ---
 
 ## Creative - יצירתיות
-📁 `prompts/creative/`
+📁 `creative/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/creative/)
+[→ לתיקייה](creative/)
 
 ---
 
 ## Business - עסקים
-📁 `prompts/business/`
+📁 `business/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/business/)
+[→ לתיקייה](business/)
 
 ---
 
 ## Education - חינוך
-📁 `prompts/education/`
+📁 `education/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/education/)
+[→ לתיקייה](education/)
 
 ---
 
 ## Productivity - פרודוקטיביות
-📁 `prompts/productivity/`
+📁 `productivity/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/productivity/)
+[→ לתיקייה](productivity/)
 
 ---
 
 ## Marketing - שיווק
-📁 `prompts/marketing/`
+📁 `marketing/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/marketing/)
+[→ לתיקייה](marketing/)
 
 ---
 
 ## Templates - תבניות
-📁 `prompts/templates/`
+📁 `templates/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/templates/)
+[→ לתיקייה](templates/)
 
 ---
 
 ## System - מערכת
-📁 `prompts/system/`
+📁 `system/`
 
 | שם הפרומפט | תיאור | קישור |
 |------------|-------|-------|
 | *הוסף פרומפטים כאן* | | |
 
-[→ לתיקייה](prompts/system/)
+[→ לתיקייה](system/)
 
 ---
 
