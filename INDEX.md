@@ -4,6 +4,7 @@
 
 ## ניווט מהיר
 
+- [Amir Personal - מאסטר פרומפט אישי](#amir-personal---מאסטר-פרומפט-אישי)
 - [Coding - תכנות](#coding---תכנות)
 - [Writing - כתיבה](#writing---כתיבה)
 - [Analysis - ניתוח](#analysis---ניתוח)
@@ -14,6 +15,17 @@
 - [Marketing - שיווק](#marketing---שיווק)
 - [Templates - תבניות](#templates---תבניות)
 - [System - מערכת](#system---מערכת)
+
+---
+
+## Amir Personal - מאסטר פרומפט אישי
+📁 `prompts/amir-personal/`
+
+| שם הפרומפט | תיאור | קישור |
+|------------|-------|-------|
+| *הוסף פרומפטים כאן* | | |
+
+[→ לתיקייה](prompts/amir-personal/)
 
 ---
 
@@ -138,6 +150,7 @@
 
 | קטגוריה | מספר פרומפטים |
 |---------|---------------|
+| Amir Personal | 0 |
 | Coding | 0 |
 | Writing | 0 |
 | Analysis | 0 |
