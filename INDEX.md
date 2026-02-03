@@ -15,6 +15,7 @@
 - [Marketing - שיווק](#marketing---שיווק)
 - [Templates - תבניות](#templates---תבניות)
 - [System - מערכת](#system---מערכת)
+- [Custom GPTs](#custom-gpts)
 
 ---
 
@@ -139,6 +140,15 @@
 
 ---
 
+## Custom GPTs
+📁 `custom-gpts/`
+
+אוסף Custom GPTs עם קישורים ישירים.
+
+[→ לרשימת ה-GPTs](custom-gpts/my-gpts.md)
+
+---
+
 ## איך להוסיף פרומפט חדש
 
 1. צור קובץ `.md` בתיקייה המתאימה
@@ -161,6 +171,7 @@
 | Marketing | 0 |
 | Templates | 0 |
 | System | 0 |
+| Custom GPTs | 0 |
 | **סה"כ** | **0** |
 
 *עדכון אחרון: 03/02/2026*

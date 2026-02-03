@@ -17,6 +17,7 @@ Amir_Prompt_Library/
 ├── marketing/       # פרומפטים לשיווק ופרסום
 ├── templates/       # תבניות פרומפטים בסיסיות
 ├── system/          # פרומפטים מערכתיים (System Prompts)
+├── custom-gpts/     # אוסף Custom GPTs עם קישורים
 ├── README.md        # מדריך הספרייה
 └── INDEX.md         # אינדקס כל הפרומפטים
 ```
@@ -36,6 +37,7 @@ Amir_Prompt_Library/
 | **Marketing** | פרומפטים לשיווק | קופירייטינג, מודעות, SEO |
 | **Templates** | תבניות בסיסיות | תבניות פרומפט לשימוש חוזר |
 | **System** | פרומפטים מערכתיים | הגדרות אישיות ל-AI, Custom Instructions |
+| **Custom GPTs** | אוסף Custom GPTs | קישורים ל-GPTs מועדפים, GPTs שיצרתי |
 
 ## איך להשתמש
 
